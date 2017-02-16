@@ -2,7 +2,7 @@
 
 This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group in the [Institute for Bioinformatics](http://upibi.org/) at UPenn.
 
-In a nutshell, our lab develops computational methods to identify the complex genetic architectures that lead to human disease. Our methods address problems such as gene-gene interaction (epistasis), heterogeneity, and scalability.  
+In a nutshell, our lab develops computational methods to identify the complex genetic architectures that lead to human disease. Our methods address [challenges](http://www.nature.com/nrg/journal/v11/n6/full/nrg2809.html) such as epistasis, heterogeneity, and scalability.  
 
 You can browse our projects below for more information.
 
