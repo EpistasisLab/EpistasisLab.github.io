@@ -1,4 +1,4 @@
-# Epistasis Lab
+
 
 This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group in the [Institute for Bioinformatics](http://upibi.org/) at UPenn.
 
