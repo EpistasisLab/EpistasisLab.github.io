@@ -1,23 +1,25 @@
 # Epistasis Lab
 
-This is the documentation page for the Epistasis Lab, in the Institute for Bioinformatics at UPenn. In a nutshell, our lab develops computational methods to identify the complex genetic architectures that lead to human disease. 
+This is the documentation page for the Epistasis Lab, a research group in the [Institute for Bioinformatics](http://upibi.org/) at UPenn.
+
+In a nutshell, our lab develops computational methods to identify the complex genetic architectures that lead to human disease. 
 
 You can browse our projects below for more information.
 
 Methods
 ===
 
-[EVE](https://github.com/EpistasisLab/EVE): ENSEMBL VEP on EC2
+[**EVE**](https://github.com/EpistasisLab/EVE): ENSEMBL VEP on EC2
 
-[ellyn](https://github.com/EpistasisLab/ellyn): A sklearn-compatible linear genetic programming system for symbolic regression and classification. 
+[**ellyn**](https://github.com/EpistasisLab/ellyn): A sklearn-compatible linear genetic programming system for symbolic regression and classification. 
 
-[FEW](https://lacava.github.io/few): A feature engineering wrapper for scikit-learn. 
+[**FEW**](https://lacava.github.io/few): A feature engineering wrapper for scikit-learn. 
 
-[scikit-mdr](https://github.com/EpistasisLab/scikit-mdr): A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
+[**scikit-mdr**](https://github.com/EpistasisLab/scikit-mdr): A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction.
 
-[scikit-rebate](https://epistasislab.github.io/scikit-rebate/): A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
+[**scikit-rebate**](https://epistasislab.github.io/scikit-rebate/): A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
 
-[tpot](http://rhiever.github.io/tpot/): A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+[**tpot**](http://rhiever.github.io/tpot/): A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 
 Useful Collections
 ===
