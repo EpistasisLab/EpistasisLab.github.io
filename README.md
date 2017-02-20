@@ -11,7 +11,7 @@ Methods
 
 [EVE](https://github.com/EpistasisLab/EVE): ENSEMBL VEP on EC2
 
-[ellyn](https://github.com/EpistasisLab/ellyn): A sklearn-compatible linear genetic programming system for symbolic regression and classification. 
+[ellyn](https://epistasislab.github.io/ellyn): A sklearn-compatible linear genetic programming system for symbolic regression and classification. 
 
 [FEW](https://lacava.github.io/few): A feature engineering wrapper for scikit-learn. 
 
