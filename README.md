@@ -13,7 +13,7 @@ Methods
 
 [ellyn](https://epistasislab.github.io/ellyn): A sklearn-compatible linear genetic programming system for symbolic regression and classification. 
 
-[ExSTraCS](https://github.com/ryanurbs/ExSTraCS_2.0) Extended Supervised Tracking and Classifying System
+[ExSTraCS](https://github.com/ryanurbs/ExSTraCS_2.0): Extended Supervised Tracking and Classifying System
 
 [FEW](https://lacava.github.io/few): A feature engineering wrapper for scikit-learn. 
 
