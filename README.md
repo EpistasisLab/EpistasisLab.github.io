@@ -16,7 +16,7 @@ Methods
 
 [ExSTraCS](https://github.com/ryanurbs/ExSTraCS_2.0): Extended Supervised Tracking and Classifying System
 
-[FEAT](https://lacava.github.io/few): A feature engineering automation tool for regression and classification. 
+[FEAT](https://lacava.github.io/feat): A feature engineering automation tool for regression and classification. 
 
 [FEW](https://lacava.github.io/few): A feature engineering wrapper for scikit-learn. 
 
