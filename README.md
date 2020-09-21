@@ -2,7 +2,8 @@
 
 This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group in the [Institute for Biomedical Informatics](http://upibi.org/) at UPenn.
 
-In a nutshell, our lab develops computational methods to identify the complex genetic architectures that lead to human disease. Our methods address [challenges](http://www.nature.com/nrg/journal/v11/n6/full/nrg2809.html) such as epistasis, heterogeneity, and scalability.  
+In a nutshell, our lab develops computational methods to identify the complex genetic and environmental interactions that lead to human disease. 
+Our methods address [challenges](http://www.nature.com/nrg/journal/v11/n6/full/nrg2809.html) such as epistasis, heterogeneity, and scalability.  
 
 You can browse our projects below for more information.
 
@@ -14,6 +15,8 @@ Methods
 [ellyn](https://epistasislab.github.io/ellyn): A sklearn-compatible linear genetic programming system for symbolic regression and classification. 
 
 [ExSTraCS](https://github.com/ryanurbs/ExSTraCS_2.0): Extended Supervised Tracking and Classifying System
+
+[FEAT](https://lacava.github.io/few): A feature engineering automation tool for regression and classification. 
 
 [FEW](https://lacava.github.io/few): A feature engineering wrapper for scikit-learn. 
 
