@@ -24,7 +24,12 @@ Methods
 
 [scikit-rebate](https://epistasislab.github.io/scikit-rebate/): A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
 
-[tpot](http://rhiever.github.io/tpot/): A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+[stir](https://github.com/insilico/stir/): ReliefF on steroids
+
+[tpot](https://epistasislab.github.io/tpot/): A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+
+[treeheatr](https://github.com/trang1618/treeheatr): Heatmap-integrated decision tree visualizations
+
 
 Useful Collections
 ===
@@ -32,3 +37,5 @@ Useful Collections
 [ClinicalDataSources](https://github.com/EpistasisLab/ClinicalDataSources): Open or Easy Access Clinical Data Sources for Biomedical Research
 
 [Penn ML Benchmarks (PMLB)](https://github.com/EpistasisLab/penn-ml-benchmarks): A large, curated repository of benchmarks for evaluating supervised machine learning algorithms.
+
+[pmlbr](https://github.com/EpistasisLab/pmlbr): an R interface to PMLB 
