@@ -1,6 +1,6 @@
 
 
-This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group at [Cedars Sinai](https://www.cedars-sinai.org/).
+This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group at at [Cedars-Sinai Medical Center](https://www.cedars-sinai.org/locations/cedars-sinai-main-campus-89.html) in Los Angeles, CA (USA).
 
 In a nutshell, our lab develops computational methods to identify the complex genetic and environmental interactions that lead to human disease. 
 Our methods address [challenges](http://www.nature.com/nrg/journal/v11/n6/full/nrg2809.html) such as epistasis, heterogeneity, and scalability.  
