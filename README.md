@@ -1,6 +1,6 @@
 
 
-This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group in the [Institute for Biomedical Informatics](http://upibi.org/) at UPenn.
+This is the documentation page for the [Epistasis Lab](http://epistasis.org), a research group at [Cedars Sinai](https://www.cedars-sinai.org/).
 
 In a nutshell, our lab develops computational methods to identify the complex genetic and environmental interactions that lead to human disease. 
 Our methods address [challenges](http://www.nature.com/nrg/journal/v11/n6/full/nrg2809.html) such as epistasis, heterogeneity, and scalability.  
